@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="name">SAHIR KHAN</string>
+    <string name="work">Android Developer</string>
+    <string name="reg_label">Reg No :</string>
+    <string name="reg_text">17-ARID-2667</string>
+    <string name="father_label">Father Name :</string>
+    <string name="father_text">Sohail Khan</string>
+    <string name="uni_label">University :</string>
+    <string name="uni_text">Arid Agriculture University</string>
+    <string name="course_label">Course :</string>
+    <string name="course_text">Software Engineering</string>
+    <string name="email_label">Email :</string>
+    <string name="email_text">sahirkhan786@gmail.com</string>
+    <string name="dep_label">Department :</string>
+    <string name="dep_text">IT</string>
+    <string name="cnic_label">CNIC :</string>
+    <string name="cnic_text">36501-7678531-2</string>
+    <string name="dob_label">Date of Birth :</string>
+    <string name="dob_text">17-0-1997</string>
+
+</resources>

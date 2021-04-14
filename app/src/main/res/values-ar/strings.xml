@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="name">سهير خان</string>
+    <string name="work">الروبوت المطور</string>
+    <string name="reg_label">ريج لا:</string>
+    <string name="reg_text">17-ARID-2667</string>
+    <string name="father_label">اسم الأب :</string>
+    <string name="father_text">سهيل خان</string>
+    <string name="uni_label">جامعة :</string>
+    <string name="uni_text">جامعة الزراعة القاحلة</string>
+    <string name="course_label">مسار :</string>
+    <string name="course_text">هندسة البرمجيات</string>
+    <string name="email_label">بريد إلكتروني :</string>
+    <string name="email_text">sahirkhan786@gmail.com</string>
+    <string name="dep_label">قسم :</string>
+    <string name="dep_text">هو - هي</string>
+    <string name="cnic_label">CNIC:</string>
+    <string name="cnic_text">36501-7678531-2</string>
+    <string name="dob_label">تاريخ الولادة :</string>
+    <string name="dob_text">17-0-1997</string>
+</resources>

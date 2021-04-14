@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="dob_text">1997年1月17日</string>
+    <string name="dob_label">出生日期 ：</string>
+    <string name="cnic_text">36501-7678531-2</string>
+    <string name="cnic_label">CNIC：</string>
+    <string name="dep_text">它</string>
+    <string name="dep_label">部门 ：</string>
+    <string name="email_text">sahirkhan786@gmail.com</string>
+    <string name="email_label">电子邮件 ：</string>
+    <string name="course_text">软件工程</string>
+    <string name="course_label">课程 ：</string>
+    <string name="uni_text">干旱农业大学</string>
+    <string name="uni_label">大学 ：</string>
+    <string name="father_text">索哈尔·汗（Sohail Khan）</string>
+    <string name="father_label">父亲姓名 ：</string>
+    <string name="reg_text">17-ARID-2667</string>
+    <string name="reg_label">登记号：</string>
+    <string name="work">Android开发人员</string>
+    <string name="name">沙伊尔汗</string>
+</resources>
